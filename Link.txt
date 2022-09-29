@@ -1,0 +1,4 @@
+
+This is link : Copy this link into Preferences window in Arduino IDE
+
+https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
